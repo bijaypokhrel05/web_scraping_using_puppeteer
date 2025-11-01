@@ -151,7 +151,7 @@ Puppeteer is used here because:
 ## 📁 Project Structure
 
 ```
-web_scraping_tut01/
+web_scraping_using_puppeteer/
 ├── index.js          # Main scraping script
 ├── package.json      # Node.js dependencies and project metadata
 ├── books.json        # Output file with scraped book data
