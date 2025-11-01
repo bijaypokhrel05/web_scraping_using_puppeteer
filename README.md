@@ -198,7 +198,7 @@ ISC
 
 ## 👤 Author
 
-Web scraping practice project by bijaypokhrel05
+Web scraping practice project by [bijaypokhrel05](https://github.com/bijaypokhrel05)
 
 ---
 
